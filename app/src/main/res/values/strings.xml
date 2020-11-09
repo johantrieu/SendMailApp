@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SendEmail</string>
     <string name="compose_an_email">Compose an email</string>
-    <string name="subjext">Subjext</string>
+    <string name="subject">Subjext</string>
     <string name="message">Message:</string>
     <string name="mail">Mail:</string>
 </resources>
